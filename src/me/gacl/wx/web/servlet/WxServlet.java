@@ -14,6 +14,8 @@ import javax.servlet.http.HttpServletResponse;
 
 import me.gacl.wx.util.MessageHandlerUtil;
 
+
+
 /**
  * Created by xdp on 2016/1/25.
  * 使用@WebServlet注解配置WxServlet,urlPatterns属性指明了WxServlet的访问路径
